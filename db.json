@@ -11,16 +11,14 @@
       "content": "This is also an example."
     },
     {
+      "title": "Third Article",
+      "content": "Another example!",
       "id": 3
     },
     {
+      "title": "Fourth Article",
+      "content": "Another  fourth example!",
       "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
     }
   ]
 }
